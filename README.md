@@ -1,2 +1,2 @@
-# soutgithub
-sout's github
+# 鸡你太美病毒
+sout早期作品，破烂易语言编写，已停止更新
